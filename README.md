@@ -6,7 +6,7 @@
 
 This contact list sample application demonstrate how to build a web application using
 
-> React + Material-UI + React-Router
+**React + Material-UI + React-Router**
 
 ## Setup
 ```
