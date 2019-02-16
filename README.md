@@ -8,7 +8,7 @@ This contact list sample application demonstrate how to build a web application 
 
 **React + Material-UI + React-Router**
 
-[DEMO] {https://pages.github.com/}
+[DEMO](https://pages.github.com/)
 
 ## Setup
 ```
