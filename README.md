@@ -1,10 +1,19 @@
 <h1 align="center">
   <img src=".screenshot.png"/><br>
+  Contact list App
 </h1>
 
-<h2>React + Material-UI + React-Router</h2>
-The sample contact list application is built by
+
+This contact list sample application demonstrate how to build a web application using
+
 > React + Material-UI + React-Router
+
+## Setup
+```
+npm install
+
+```
+
 
 
 ## The sameple application contains:
