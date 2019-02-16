@@ -1,10 +1,13 @@
 <h1 align="center">
   <img src=".screenshot.png"/><br>
-  React Contact List Example App
 </h1>
-<h2 align="center">React + Material-UI + React-Router</h2>
 
-## What are included?
+<h2>React + Material-UI + React-Router</h2>
+The sample contact list application is built by
+> React + Material-UI + React-Router
+
+
+## The sameple application contains:
 
 - UI: React-Material 
   * Style & Theme
