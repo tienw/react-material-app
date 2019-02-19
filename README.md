@@ -1,5 +1,5 @@
 <h1 align="center">
-  [<img src=".screenshot.png"/>](http://demo.platformular.com/reactmaterialuiapp/)
+  <img src=".screenshot.png"/>
   <br>
   Contact list App
 </h1>
