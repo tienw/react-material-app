@@ -73,7 +73,7 @@ class UserDetail extends React.Component{
         return (
             <div >
                 <div className={classes.center}>
-                    <Avatar alt={this.state.firstName + this.state.lastName} src={(this.state.image) ? require(`../images/${this.state.image}`) : require(`../images/default.jpg`)} className={classes.avatar} />
+                    <Avatar alt={this.state.firstName + this.state.lastName} src={(this.state.image) ? process.env.PUBLIC_URL + `/images/${this.state.image}` : process.env.PUBLIC_URL + `/images/default.jpg`} className={classes.avatar} />
                 </div>
                 <div className={classes.center}>
                     <h3>{this.state.title}. {this.state.firstName} {this.state.lastName}</h3>

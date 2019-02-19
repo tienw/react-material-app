@@ -1,14 +1,15 @@
 <h1 align="center">
-  <img src=".screenshot.png"/><br>
+  [<img src=".screenshot.png"/>](http://demo.platformular.com/reactmaterialuiapp/)
+  <br>
   Contact list App
 </h1>
 
 
-This contact list sample application demonstrate how to build a web application using
+This contact list sample application demonstrate how to build a single page application(SPA) using
 
 **React + Material-UI + React-Router**
 
-[DEMO](https://pages.github.com/)
+[DEMO](http://demo.platformular.com/reactmaterialuiapp/)
 
 ## Setup
 ```

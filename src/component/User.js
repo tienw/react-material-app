@@ -119,7 +119,7 @@ class User extends React.Component{
                         <ListItemAvatar>
                         <Avatar
                             alt={`${u.firstName + ' ' + u.lastName}`}
-                            src={(u.image) ? require(`../images/${u.image}`) : require(`../images/default.jpg`)}
+                            src={(u.image) ? process.env.PUBLIC_URL + `/images/${u.image}` : process.env.PUBLIC_URL + `/images/default.jpg`}
                         />
                         </ListItemAvatar>
                         <ListItemText primary={`${u.firstName + ' ' + u.lastName}`} />
